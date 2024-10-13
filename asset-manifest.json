@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bba81d22.css",
+    "main.js": "/static/js/main.b187e3bc.js",
+    "static/js/488.51244925.chunk.js": "/static/js/488.51244925.chunk.js",
+    "static/media/rommel.png": "/static/media/rommel.492a34931a5183e26ba5.png",
+    "index.html": "/index.html",
+    "main.bba81d22.css.map": "/static/css/main.bba81d22.css.map",
+    "main.b187e3bc.js.map": "/static/js/main.b187e3bc.js.map",
+    "488.51244925.chunk.js.map": "/static/js/488.51244925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba81d22.css",
+    "static/js/main.b187e3bc.js"
+  ]
+}
